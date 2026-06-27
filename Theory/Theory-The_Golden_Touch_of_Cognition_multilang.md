@@ -27,3 +27,28 @@
 ## 5. 局限
 
 此理论框架限于人类的认知，不适用于抽象逻辑系统，例如数学、物理等。
+
+---
+
+# Theory: The Golden Touch of Cognition
+
+## 1. Research Question
+Why has the dramatic increase in our capacity to access information failed to synchronously improve the quality of individual cognition?
+
+## 2. Core Concepts
+* **The "Midas Effect" of Cognition (认知的迈达斯效应):** The cognitive tendency to continuously expand the scope of information acquisition in an attempt to reduce the unknown and mitigate uncertainty.
+* **The Chronos Process (克洛诺斯过程):** The cognitive stance of acknowledging that both cognitive capacity and time are finite resources—whereas information is inherently infinite. It emphasizes recognizing one's own limitations and developing sustainably within one's means.
+
+## 3. Core Arguments
+Humans possess an innate desire for knowledge, capability, and information, yet the cognitive capacity to process this information is strictly limited. Driven by the **Midas Effect**, humans rarely reject incoming data; instead, when faced with an abundance of accessible information, they instinctively pursue more, driven by the belief that more data equals a higher chance of eliminating uncertainty.
+
+To prevent cognitive overload, individuals must engage in the **Chronos Process**. This requires a conscious realization that cognitive resources are finite and will always be eclipsed by the sheer volume of available information. By accepting these boundaries and the reality of the unknown, individuals can pursue growth and progress at a measured, manageable pace.
+
+## 4. Argumentation & Validation
+* **The Paradox of Accessibility:** Modern individuals can effortlessly acquire vast amounts of information and knowledge through internet platforms, such as short-form videos. Paradoxically, the discourse and attitudes of the general online population have become more emotional, slow-witted, and less inclined toward active knowledge seeking.
+* **The Drain of Daily Life:** The vast majority of internet users are workers and students already burdened by anxiety and pressure, meaning their mental energy is heavily depleted. Consequently, their primary motive for using the internet is entertainment and relaxation.
+* **Passive Overload:** In pursuit of relaxation, people passively consume massive amounts of information. Often without realizing it, the volume of data quickly exceeds what their cognitive faculties can sustainably process.
+* **Cognitive "Gluttony":** Because of this cognitive greed, the cognitive weight and processing power allocated to any single piece of information is drastically reduced. Furthermore, since the underlying goal is mere entertainment, individuals gradually become emotionally numb to events, leading to dulled thinking, scattered attention, and a superficial skimming of information.
+
+## 5. Limitations
+This theoretical framework is strictly confined to human cognition and does not apply to abstract logical systems, such as mathematics or physics.
