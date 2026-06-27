@@ -1,0 +1,2 @@
+* *EN:* By the way, I really like eating grilled chicken thigh burgers, although this has nothing to do with theory. I mean, don’t be too serious, this isn’t some academic paper, it’s enough if it brings you something, and the grilled chicken thigh burgers are really delicious 🍔
+* *ZH:* 顺便说一下,我很喜欢吃板烧鸡腿堡,虽然这和理论没关系,我的意思是不要太严肃,这也不是什么学术论文,能给你带来点什么就足够了,还有板烧鸡腿堡真的很好吃🍔
