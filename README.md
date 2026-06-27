@@ -14,7 +14,7 @@
 
 ## Author's Note（作者留言）
 
-* *EN:* I am simply a philosophy enthusiast, and this repository was created to document my personal thoughts and theories. The contents herein are not intended to be rigorous academic papers. Feedback, alternative perspectives, and refutations are more than welcome.
+* *EN:* I am simply a philosophy enthusiast, and this repository was created to document my personal thoughts and theories. The contents herein are not intended to be rigorous academic papers. Feedback, alternative perspectives, and refutations are more than welcome.(By the way, I only speak Chinese, so I used AI to translate the English part 😢)
 
 That is all   o(^▽^)o
 
