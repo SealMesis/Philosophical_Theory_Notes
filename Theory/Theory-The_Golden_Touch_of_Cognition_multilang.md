@@ -36,8 +36,8 @@
 Why has the dramatic increase in our capacity to access information failed to synchronously improve the quality of individual cognition?
 
 ## 2. Core Concepts
-* **The "Midas Effect" of Cognition (认知的迈达斯效应):** The cognitive tendency to continuously expand the scope of information acquisition in an attempt to reduce the unknown and mitigate uncertainty.
-* **The Chronos Process (克洛诺斯过程):** The cognitive stance of acknowledging that both cognitive capacity and time are finite resources—whereas information is inherently infinite. It emphasizes recognizing one's own limitations and developing sustainably within one's means.
+* **The "Midas Effect" of Cognition :** The cognitive tendency to continuously expand the scope of information acquisition in an attempt to reduce the unknown and mitigate uncertainty.
+* **The Chronos Process :** The cognitive stance of acknowledging that both cognitive capacity and time are finite resources—whereas information is inherently infinite. It emphasizes recognizing one's own limitations and developing sustainably within one's means.
 
 ## 3. Core Arguments
 Humans possess an innate desire for knowledge, capability, and information, yet the cognitive capacity to process this information is strictly limited. Driven by the **Midas Effect**, humans rarely reject incoming data; instead, when faced with an abundance of accessible information, they instinctively pursue more, driven by the belief that more data equals a higher chance of eliminating uncertainty.
