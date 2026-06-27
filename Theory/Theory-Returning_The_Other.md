@@ -6,8 +6,8 @@
 
 ## 2.核心概念
 
-**归还**: 承认人的思想,认知与人性是无法被完全剖析的
-**他人画像**: 认知因为对于他人的接触形成对他人的认知模型,而非真实的他人
+* **归还**: 承认人的思想,认知与人性是无法被完全剖析的
+* **他人画像**: 认知因为对于他人的接触形成对他人的认知模型,而非真实的他人
 
 ## 3.核心观点
 
@@ -40,8 +40,8 @@
 Why do misunderstandings continuously occur between people, even among those who are deeply familiar with one another?
 
 ## 2. Core Concepts
-* **Restitution (归还):** The act of acknowledging that human thought, cognition, and nature can never be fully dissected or completely understood.
-* **The Avatar of the Other (他人画像):** A cognitive model formed through contact with another person, representing one's perception of them rather than who that person truly is.
+* **Restitution:** The act of acknowledging that human thought, cognition, and nature can never be fully dissected or completely understood.
+* **The Avatar of the Other:** A cognitive model formed through contact with another person, representing one's perception of them rather than who that person truly is.
 
 ## 3. Core Arguments
 Through contact with others, our cognition observes their words and deeds. However, instead of fully understanding them, it constructs a cognitive model based on the information gathered so far. This model is not the actual person, but what this paper terms **"The Avatar of the Other."**
