@@ -47,4 +47,3 @@ Pursuing a rational attitude does not mean exploring endlessly and without bound
 ## Explanation of the Title
 
 Rationality is compared to a knight holding a rose. The beauty of the rose lies in the fact that it is worth protecting. The existence of thorns implies that protection does not come without a cost. The unknown will sting people, doubt will shake people, and the pursuit of truth may even increase pain. However, the dignity of rationality lies precisely in this: it does not move forward because it is free of fear, but because after acknowledging fear, it still refuses to exchange peace of mind for false certainty.
-(Why are the file name and the title different?Cause I made a typo while translating😅)
